@@ -1,35 +1,20 @@
 # Hi, I'm Hassan Sharif 👋
 
- Im a IT student at Wake Tech Community College (WTCC) with a strong focus on networking, cybersecurity, and systems support. I learn best by building, breaking, and troubleshooting real environments, which is why I spend a lot of time working in labs, virtual machines, and hands‑on projects alongside my coursework.
 
-🎓 Certifications
+I’m an IT student at Wake Tech Community College who’s into networking, cybersecurity, and hands-on troubleshooting. I like learning by actually building things, breaking them, and figuring out how to fix them.
 
-🛡️ CompTIA Security+ (SY0‑701)
+### 🎓 Certs
+- CompTIA Security+
+- Cisco CCST (Networking)
+- CCNA (in progress)
 
-🌐 Cisco Certified Support Technician (CCST) – Networking
+### 🛠️ What I work on
+- Networking labs (IPv4/IPv6, VLANs, routing)
+- Help desk & ticketing system labs
+- Windows systems & basic Active Directory concepts
+- Python for practice and automation
 
-📡 Cisco CCNA – In Progress
+### 🎯 Goal
+Land an entry-level IT / Help Desk role, keep learning, and grow into networking or security long-term.
 
-🧠 Skills & Focus Areas
-
-Networking: TCP/IP, IPv4/IPv6, subnetting, VLANs, trunking, OSPF, routing concepts
-
-Systems: Windows 10/11, basic Active Directory concepts, user & access troubleshooting
-
-Security: Authentication vs authorization, RBAC, least privilege, Security+ core domains
-
-Virtualization & Labs: VMware Workstation, Hyper‑V, VirtualBox, home lab environments
-
-Scripting: Python fundamentals for logic, automation, and problem solving
-
-🎯 Goals
-
-Secure an entry‑level IT / Help Desk / Technical Support role
-
-Continue building a strong hands‑on portfolio that reflects real IT scenarios
-
-Earn the CCNA, then progress deeper into networking and cybersecurity
-
-Grow from foundational support roles into advanced technical positions
-
-This GitHub is a collection of my labs, notes, scripts, and projects as I work toward becoming a skilled and reliable IT professional.
+This GitHub is where I keep my labs, notes, and projects as I build real-world sk
